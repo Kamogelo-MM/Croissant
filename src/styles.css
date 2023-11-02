@@ -1,0 +1,13 @@
+body{
+    background:#e9ecef;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+   
+}
+
+a:visited {
+    color:  rgb(0, 38, 255) ;
+}
